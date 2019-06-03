@@ -1,2 +1,2 @@
 # DioDocsSamples
-DioDocs Apps on Multi Platform.
+DioDocsを .NET Standardなクラスライブラリで呼び出してクロスプラットフォームで使用する。
